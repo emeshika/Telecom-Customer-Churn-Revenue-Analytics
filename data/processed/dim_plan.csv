@@ -1,0 +1,22 @@
+plan_id,Contract,InternetService,PhoneService,PEOTV_Subscription,plan_name
+1,Month-to-month,DSL,No,0,Month-to-month | DSL
+2,One year,DSL,Yes,0,One year | DSL
+3,Month-to-month,DSL,Yes,0,Month-to-month | DSL
+4,One year,DSL,No,0,One year | DSL
+5,Month-to-month,Fiber optic,Yes,1,Month-to-month | Fiber optic | PEOTV
+6,Month-to-month,Fiber optic,Yes,0,Month-to-month | Fiber optic
+7,Two year,No,Yes,0,Two year | No
+8,One year,Fiber optic,Yes,0,One year | Fiber optic
+9,Two year,Fiber optic,Yes,0,Two year | Fiber optic
+10,One year,No,Yes,0,One year | No
+11,Two year,Fiber optic,Yes,1,Two year | Fiber optic | PEOTV
+12,Month-to-month,No,Yes,0,Month-to-month | No
+13,Two year,DSL,Yes,0,Two year | DSL
+14,Month-to-month,DSL,Yes,1,Month-to-month | DSL | PEOTV
+15,Month-to-month,DSL,No,1,Month-to-month | DSL | PEOTV
+16,Two year,DSL,Yes,1,Two year | DSL | PEOTV
+17,Two year,DSL,No,0,Two year | DSL
+18,One year,Fiber optic,Yes,1,One year | Fiber optic | PEOTV
+19,Two year,DSL,No,1,Two year | DSL | PEOTV
+20,One year,DSL,Yes,1,One year | DSL | PEOTV
+21,One year,DSL,No,1,One year | DSL | PEOTV

@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data – raw large files (keep processed CSVs)
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.gz
+
+# Models (large binaries)
+models/*.pkl
+models/*.joblib
+models/*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Excel temp files
+~$*.xlsx
+
+# Secrets / env
+.env
+*.env
+secrets.py
