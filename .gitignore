@@ -25,10 +25,8 @@ data/raw/*.csv
 data/raw/*.zip
 data/raw/*.gz
 
-# Models (large binaries)
-models/*.pkl
-models/*.joblib
-models/*.bin
+# Models – exclude only files over 50 MB (all current models are <1 MB)
+# models/*.joblib  # uncomment if models grow large
 
 # OS
 .DS_Store
